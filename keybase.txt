@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/carlosgeos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://carlosgeos.github.io
+  * I am carlosgeos (https://keybase.io/carlosgeos) on keybase.
+  * I have a public key with fingerprint 6863 D7E9 4CE2 B943 AF38  520E 4CB4 85A1 9017 472A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ab55839b79bf0f4fb49c9910c1bca360cde6033617216451c88108ce257a61470a",
+      "fingerprint": "6863d7e94ce2b943af38520e4cb485a19017472a",
+      "host": "keybase.io",
+      "key_id": "4cb485a19017472a",
+      "kid": "0101ab55839b79bf0f4fb49c9910c1bca360cde6033617216451c88108ce257a61470a",
+      "uid": "5dbf699b5db3b2c89ff071a263b36b19",
+      "username": "carlosgeos"
+    },
+    "service": {
+      "hostname": "carlosgeos.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1547413483,
+  "expire_in": 157680000,
+  "prev": "7cd49bf17de8596c9b704e0f9b3be13d1ac23aa9cd28e7397289f2ecc42ff963",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVGUY3VVgAAciMBwsB7oGiKLd7w8+Y4yvBAeYwRprWu7He+HCurvuvbsL
+kjVQKOEQUFgy4E4UAT8oSQQCdigwGwrdshhxNSqRYEgHGRpDGpHupfxVP3v/PPM+
+c855zznz1gds1Pnqs85VtdZvSd+pH5/ndC/Fd+rKIc4slEFx5VAJWB/AKABZMZRI
+AhQHwQiMsBxB0BjDUQwnwiIucjjDMwwC8wjHsxgJ8wIgYQwjEQpFSJxAeJpGYJoH
+KEGxJIJTMAvFQqJkKgRWi1UyKaosSZOYQAEGV1Ecg2OsiNEECgOc53CaYBEGRiic
+QjVikVnWGKo5jpXBHsms7tSLYd3ef+D/Z9+2dTlC4ESSYTh1YhzK04wowhTCoiTG
+YSSHMBpQBlYTewioaJ61Gs1yITDL0NFYSN3bJR5o1WpZ/oXZUygpRTbu72QWq1kx
+82ajiihSFIscpykoZRaN4gCc4R8xAyeZBLVRlWEHVlkym6A4REXyiqSpIwRO4QiG
+01gsBEotkhUYJA1BUCQNq0d7B9g5VZPiBVytB6EEQBMMyattwTiARUbNCRBMQFge
+xViW4QWUBhTGUKiaHQU8j6OiyJAYpOU7bDJDcZTqky1UJWWp0MQqNiuAjvq/uQHz
+0ul9ddtCn/Qq4ifns6YH9p6h8wIf/kLvDdoX1Pn7BT3cDIw/spY3FtE2s+iuM5Tk
+uKobg8s/lxfndl2wBH4D9pVvHdT3+Dy34/yxO19Vd7c8w+TfHgrvXEvupVsLLv7h
+PvJLy2y5VHY28kjC71kZxt90l2urc9pS5yvnvn1nt/Hm1IGlE512DzDmTXSnrpXq
+dQeXo+cbOva66Izj7iRHw+ZXojzvTl67a8x98c/HiN5+0nH7TlDP0yPSNb1P5v2r
+N2s5PdNYE+pcaWq8EfNDTVNqie7TjXdDUjL2VX0ij044rhhMvZHfN/cOXd79hLv1
+ZEx4RsDo2/kDB/2SU/Yry8vN3DRhP/tdiOdchO8bCw9C7NTQjzOtF6Kfr66suO8p
+ym2MTKk6IDoXlou7wrq3t4+E5X/pHsw02uwTTM1Fv5/v6WztP9kayc7OrzPLVqdy
+RpWZFOfjic3+SdkL6K3gAlvl9rCp/rBMj662ZdTZlr3T27Wk97nimgSbV9pnibS6
+tITewLGo2Pf7Nn0U+0Jde0TM6q7PXl9pWEKbPQm1M2PEcJtyKenEbPyDwV8deYlO
+z+z8h933yENS11Ou2tTglwsqzuDFxVdHxpuanNfRW9fTo73LeoJO+icOT4wca0l7
+9dnwU9tOT/d9bBjXjxAVy5fcb/WfXgyNyu1H93+wd+C1+I7BR0sPm/rfm6sO6Kqv
+qTm/NTl9h9fwat+p4Im547mbZoZGO7JdN77Y4vgL
+=o/Cd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/carlosgeos
+
+==================================================================
